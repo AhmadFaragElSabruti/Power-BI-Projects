@@ -1,6 +1,10 @@
 # 🧸 Toy Store KPI Report
 
 This project presents a comprehensive **Toy Store KPI Dashboard**, designed to deliver actionable insights into store performance. The dashboard leverages engaging visuals and playful imagery to enhance user experience while maintaining clarity and professionalism.
+## 🚀 Dashboard Access  
+Explore the interactive Power BI dashboard:  
+[Toy Store KPI Report]([https://app.powerbi.com/groups/me/reports/a6bdda23-dc01-4ded-a7e1-4eb3503e75a4/ReportSection?experience=power-bi](https://app.powerbi.com/view?r=eyJrIjoiM2FiYTNkMWQtOGJkYi00YWI1LTg3Y2ItYjc3NjFmYzA5OGZjIiwidCI6ImVhZjYyNGM4LWEwYzQtNDE5NS04N2QyLTQ0M2U1ZDc1MTZjZCIsImMiOjh9))
+
 
 ---
 
