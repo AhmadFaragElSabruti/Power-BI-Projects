@@ -4,6 +4,11 @@ This dashboard was the final part of the Parking Challenge where I had to build 
 
 My solution combined multiple Power Platform components to improve parking availability and reduce unauthorized use.
 
+## 🚀 Dashboard Access  
+Explore the interactive Power BI dashboard:  
+[[(https://app.powerbi.com/view?r=eyJrIjoiM2FiYTNkMWQtOGJkYi00YWI1LTg3Y2ItYjc3NjFmYzA5OGZjIiwidCI6ImVhZjYyNGM4LWEwYzQtNDE5NS04N2QyLTQ0M2U1ZDc1MTZjZCIsImMiOjh9))](https://app.powerbi.com/view?r=eyJrIjoiM2FiYTNkMWQtOGJkYi00YWI1LTg3Y2ItYjc3NjFmYzA5OGZjIiwidCI6ImVhZjYyNGM4LWEwYzQtNDE5NS04N2QyLTQ0M2U1ZDc1MTZjZCIsImMiOjh9)](https://app.powerbi.com/view?r=eyJrIjoiOGY5NDFmMzItMGM2Ni00Y2M4LWFiNzMtNTQyZmVmYjRlYzUyIiwidCI6ImVhZjYyNGM4LWEwYzQtNDE5NS04N2QyLTQ0M2U1ZDc1MTZjZCIsImMiOjh9)]
+
+
 🛠️ Solution Overview
 ------------------------------------
 I designed a system that included:
