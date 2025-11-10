@@ -1,4 +1,4 @@
-🚗 The Power App Final Challenge 2025
+🚗 # The Power App Final Challenge 2025
 This dashboard was the final part of the Parking Challenge where I had to build a complete Power Platform solution for Kontoso High School to manage parking more effectively.
 
 My solution combined multiple Power Platform components to improve parking availability and reduce unauthorized use.
