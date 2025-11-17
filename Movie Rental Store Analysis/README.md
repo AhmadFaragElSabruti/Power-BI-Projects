@@ -25,19 +25,19 @@ It demonstrates skills in:
 ---
 
 ## 🗂️ Dataset
-- Source: Movie rental store database (SQL + Excel integration)
-- Tables include:
+- Source: Movie rental store database (Excel integration)
+- Tables include For example:
   - Customers
   - Movies & Categories
   - Rentals
   - Payments
   - Store details
+  
 
 ---
 
 ## ⚙️ Tools & Techniques
 - **Power BI Desktop**: Data modeling, DAX measures, dashboard creation
-- **SQL**: Querying and preprocessing raw data
 - **Excel**: Supporting data cleaning and validation
 - **ER Diagram**: Visual representation of relationships
 
