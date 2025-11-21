@@ -2,11 +2,11 @@
 
 ## 📌 Project Overview
 This project presents a comprehensive HR analytics dashboard built in **Power BI**, designed to uncover actionable insights into employee demographics, attrition patterns, and workforce dynamics. It demonstrates advanced skills in data modeling, visualization, and business intelligence storytelling.
-
+----------------
 ## 🚀 Dashboard Access
 Explore the interactive dashboard:  
-🔗 [Power BI Report]<iframe title="HR Analytics Project" width="600" height="373.5" src="https://app.powerbi.com/view?r=eyJrIjoiMWViZjJhNDEtNmM3ZC00YzdiLWEwOGQtN2ZkYzVkNmQ4NGUzIiwidCI6ImVhZjYyNGM4LWEwYzQtNDE5NS04N2QyLTQ0M2U1ZDc1MTZjZCIsImMiOjh9" frameborder="0" allowFullScreen="true"></iframe>
-
+🔗 [Power BI Report] (https://app.powerbi.com/view?r=eyJrIjoiMWViZjJhNDEtNmM3ZC00YzdiLWEwOGQtN2ZkYzVkNmQ4NGUzIiwidCI6ImVhZjYyNGM4LWEwYzQtNDE5NS04N2QyLTQ0M2U1ZDc1MTZjZCIsImMiOjh9)
+--------------
 ## 📈 Key Metrics
 - **Total Employees:** 1,480  
 - **Attrition Count:** 238  
